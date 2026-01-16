@@ -1,0 +1,25 @@
+.app {
+  max-width: 520px;
+  margin: 80px auto;
+  background: #ffffff;
+  padding: 28px;
+  border-radius: 12px;
+  box-shadow: 0 15px 40px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 24px;
+  font-weight: 700;
+  color: #111827;
+}
+@media (max-width: 640px) {
+  .app {
+    margin: 20px;
+    padding: 20px;
+  }
+
+  .title {
+    font-size: 20px;
+  }
+}
