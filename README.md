@@ -19,6 +19,9 @@ The application supports full CRUD operations for tasks with a React frontend an
 - Express.js
 - In-memory data storage (no database)
 
+
+
+
 ---
 
 ## Features
@@ -71,6 +74,16 @@ http://localhost:5173
 
 ## backend server
 http://localhost:5000
+
+## Screenshots
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/88f40c80-bb6d-4fed-b3d9-c054a308c22a" />
+
+#Responsiveness for ipad
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/6f589a38-7fa5-4de8-85a7-3725f263edb5" />
+
+
+
+
 
 
 
